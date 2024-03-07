@@ -1,5 +1,5 @@
 ---
-title: "BaGet"
+title: "BaGet2"
 link: "http://prod.local/BaGet/"
 draft: false
 ---
