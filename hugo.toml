@@ -1,5 +1,5 @@
-baseURL = 'http://prod.local/portal/'
+baseURL = 'https://ghputilities.github.io/'
 canonifyURLs = "true"
 languageCode = 'en-us'
-title = 'PiLab Portal'
+title = 'ghpUtitities Portal'
 theme = 'github-style'

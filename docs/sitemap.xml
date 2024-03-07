@@ -16,6 +16,8 @@
   </url><url>
     <loc>https://ghputilities.github.io/tags/foo4/</loc>
   </url><url>
+    <loc>https://ghputilities.github.io/</loc>
+  </url><url>
     <loc>https://ghputilities.github.io/gittea/</loc>
   </url><url>
     <loc>https://ghputilities.github.io/jenkins/</loc>
@@ -25,8 +27,6 @@
     <loc>https://ghputilities.github.io/osticket-admin/</loc>
   </url><url>
     <loc>https://ghputilities.github.io/phpinfo/</loc>
-  </url><url>
-    <loc>https://ghputilities.github.io/</loc>
   </url><url>
     <loc>https://ghputilities.github.io/portal/</loc>
   </url><url>

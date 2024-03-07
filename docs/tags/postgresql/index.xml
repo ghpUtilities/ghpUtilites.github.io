@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>postgresql on PiLab Portal</title>
+    <title>postgresql on ghpUtitities Portal</title>
     <link>https://ghputilities.github.io/tags/postgresql/</link>
-    <description>Recent content in postgresql on PiLab Portal</description>
+    <description>Recent content in postgresql on ghpUtitities Portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://ghputilities.github.io/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
